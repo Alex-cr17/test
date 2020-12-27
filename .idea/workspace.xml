@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5031ba45-e1b2-4a77-b630-3a0314f92de8" name="Default Changelist" comment="" />
+    <list default="true" id="5031ba45-e1b2-4a77-b630-3a0314f92de8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +19,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,6 +40,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -39,11 +62,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609093074009</updated>
-      <workItem from="1609093076353" duration="824000" />
+      <workItem from="1609093076353" duration="1612000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="176" key="#Notifications" timestamp="1609095580621">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="440" y="176" key="#Notifications/0.23.1680.975@0.23.1680.975" timestamp="1609095580621" />
+    <state x="168" y="109" key="MergeDialog" timestamp="1609095663809">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="168" y="109" key="MergeDialog/0.23.1680.975@0.23.1680.975" timestamp="1609095663809" />
+    <state x="551" y="233" key="MultipleFileMergeDialog" timestamp="1609095663868">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="551" y="233" key="MultipleFileMergeDialog/0.23.1680.975@0.23.1680.975" timestamp="1609095663868" />
   </component>
 </project>
